@@ -1,0 +1,5 @@
+{
+  "name": "Cat Jump: Endless Runner",
+  "description": "A 2D endless runner game where you control a cat, jumping over obstacles and collecting fish to achieve the highest score. Inspired by Chrome's Dino game.",
+  "requestFramePermissions": []
+}
